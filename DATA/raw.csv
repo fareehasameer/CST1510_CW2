@@ -1,0 +1,501 @@
+place,region,magnitude,mag_type,depth_km,latitude,longitude,time,significance,tsunami
+"151 km S of Cordova, Alaska",Alaska,3.2,ml,38.2,59.182,-145.684,2026-11-22 07:21:25.995,158,0
+"246 km ESE of Sarangani, Philippines",Philippines,4.9,mb,5.573,4.56,127.5165,2026-11-22 07:06:58.521,369,0
+"15 km NNE of Carhuamayo, Peru",Peru,5.0,mww,108.134,-10.7957,-75.9635,2026-11-22 05:51:58.624,386,0
+"32 km SSE of Hope, New Mexico",New Mexico,2.8,ml,8.687,32.5266,-104.6332,2026-11-22 05:41:09.161,121,0
+"16 km SSE of Soldotna, Alaska",Alaska,2.6,ml,51.2,60.366,-150.897,2026-11-22 05:19:03.676,104,0
+"57 km N of Pucallpa, Peru",Peru,4.3,mb,150.169,-7.8618,-74.5078,2026-11-22 05:09:56.350,284,0
+"86 km WNW of Aleneva, Alaska",Alaska,2.5,ml,98.4,58.374,-154.25,2026-11-22 04:33:59.407,96,0
+"72 km WNW of Aleneva, Alaska",Alaska,2.9,ml,77.4,58.238,-154.097,2026-11-22 00:20:10.581,129,0
+"60 km WNW of Abepura, Indonesia",Indonesia,4.6,mb,31.078,-2.442,140.1129,2026-11-21 23:16:05.571,326,0
+south of the Fiji Islands,south of the Fiji Islands,4.3,mb,542.33,-23.879,179.99,2026-11-21 23:09:46.835,284,0
+"11 km WNW of Calipatria, CA",CA,2.59,ml,3.11,33.15517,-115.63217,2026-11-21 21:46:31.560,103,0
+"11 km NW of Pinnacles, CA",CA,2.89,md,6.48999977111816,36.5988349914551,-121.233833312988,2026-11-21 20:21:38.630,129,0
+"21 km SSE of Solok, Indonesia",Indonesia,4.2,mb,147.806,-0.9875,100.7174,2026-11-21 19:52:26.507,271,0
+"193 km WSW of Adak, Alaska",Alaska,4.0,ml,16.8,51.15,-179.173,2026-11-21 19:44:34.265,246,0
+"88 km WNW of El Aguilar, Argentina",Argentina,4.9,mb,209.784,-23.0294,-66.519,2026-11-21 19:03:04.170,369,0
+"15 km WSW of Ollagüe, Chile",Chile,4.3,mb,124.788,-21.2842,-68.3927,2026-11-21 17:41:02.389,284,0
+"68 km SSE of Tateyama, Japan",Japan,4.6,mb,65.465,34.4089,140.131,2026-11-21 17:30:44.504,326,0
+"0 km SSW of La Colorada, Panama",Panama,4.5,mb,10.0,8.0091,-80.988,2026-11-21 17:14:21.477,312,0
+"149 km S of Cordova, Alaska",Alaska,2.6,ml,21.9,59.206,-145.629,2026-11-21 16:53:25.513,104,0
+"288 km WSW of Adak, Alaska",Alaska,3.6,ml,25.1,50.933,179.502,2026-11-21 16:17:19.204,199,0
+"44 km S of Calama, Chile",Chile,4.0,mb,101.751,-22.8557,-68.8598,2026-11-21 16:04:39.659,246,0
+"237 km NNE of Lospalos, Timor Leste",Timor Leste,4.1,mb,339.404,-6.5369,127.8223,2026-11-21 15:56:07.655,259,0
+"1 km SW of Pāhala, Hawaii",Hawaii,2.87,ml,-0.189999997615814,19.1909999847412,-155.487335205078,2026-11-21 15:53:49.910,127,0
+"1 km N of Pāhala, Hawaii",Hawaii,2.84,ml,31.1399993896484,19.21266746521,-155.477493286133,2026-11-21 15:53:44.550,124,0
+"18 km ESE of La Romana, Dominican Republic",Dominican Republic,4.6,md,104.0,18.3416,-68.8265,2026-11-21 15:00:13.140,328,0
+"10 km SSE of San Pedro, CA",CA,3.31,ml,11.29,33.65133,-118.26217,2026-11-21 14:09:32.280,332,0
+"200 km S of Akhiok, Alaska",Alaska,4.2,ml,5.0,55.15,-153.936,2026-11-21 13:26:03.324,271,0
+"6 km NNW of Delta, B.C., MX",MX,2.62,ml,7.93,32.40217,-115.21833,2026-11-21 12:41:20.670,106,0
+"238 km SW of Yanglong, China",China,5.9,mb,10.0,37.1958,96.6398,2026-11-21 10:45:33.230,650,0
+"36 km SSE of Jurm, Afghanistan",Afghanistan,4.4,mb,154.104,36.5599,70.9787,2026-11-21 10:10:31.043,298,0
+"112 km SSE of Tateyama, Japan",Japan,5.2,mb,10.0,34.0109,140.2109,2026-11-21 10:09:05.474,416,0
+"105 km NE of Lospalos, Timor Leste",Timor Leste,6.8,mww,132.055,-7.7324,127.5407,2026-11-21 09:42:09.120,726,0
+"10 km NW of Pinnacles, CA",CA,2.67,md,9.67000007629395,36.5934982299805,-121.223663330078,2026-11-21 09:04:28.860,110,0
+"48 km NE of Christiansted, U.S. Virgin Islands",U.S. Virgin Islands,3.22,md,8.89,18.0755,-64.3988333333333,2026-11-21 08:53:33.240,160,0
+"66 km S of Ugashik, Alaska",Alaska,3.0,ml,107.3,56.92,-157.491,2026-11-21 07:48:46.640,138,0
+"65 km NNW of Port-Vila, Vanuatu",Vanuatu,4.9,mb,43.228,-17.1789,168.0998,2026-11-21 07:20:44.218,369,0
+"0 km W of Lea Hill, Washington",Washington,3.35,ml,55.45,47.327,-122.19,2026-11-21 07:13:12.330,483,0
+"17 km S of Iztapa, Guatemala",Guatemala,4.1,mb,58.499,13.7792,-90.7058,2026-11-21 06:51:20.527,259,0
+"8 km W of Orocovis, Puerto Rico",Puerto Rico,2.7,md,88.68,18.2418333333333,-66.472,2026-11-21 06:23:13.420,112,0
+"36 km N of Dawson City, Canada",Canada,2.8,ml,7.374,64.3909,-139.382,2026-11-21 06:09:36.128,121,0
+"31 km WSW of Petrolia, CA",CA,2.64,md,1.24000000953674,40.2203330993652,-124.624664306641,2026-11-21 05:36:48.610,107,0
+"74 km SSE of Ugashik, Alaska",Alaska,2.9,ml,81.6,56.864,-157.111,2026-11-21 05:30:19.465,129,0
+"0 km NE of Carhuamayo, Peru",Peru,5.0,mb,110.928,-10.913,-76.0308,2026-11-21 05:12:04.898,389,0
+"28 km NNE of Chenega, Alaska",Alaska,4.1,ml,3.6,60.301,-147.79,2026-11-21 04:29:14.724,264,1
+"47 km NW of Ninilchik, Alaska",Alaska,3.5,ml,93.5,60.321,-152.318,2026-11-21 02:34:07.347,189,0
+Reykjanes Ridge,Reykjanes Ridge,4.9,mb,10.0,58.5457,-31.857,2026-11-21 02:24:37.289,369,0
+Reykjanes Ridge,Reykjanes Ridge,4.9,mb,10.0,58.3017,-31.7606,2026-11-21 01:26:19.109,369,0
+"38 km NE of Calama, Chile",Chile,4.7,mwr,120.01,-22.2307,-68.6409,2026-11-21 01:24:09.274,340,0
+"10 km E of Cholame, CA",CA,2.84,md,3.10999989509583,35.7236671447754,-120.181167602539,2026-11-21 00:38:35.700,124,0
+"41 km SE of Petropavlovsk-Kamchatsky, Russia",Russia,4.4,mb,88.946,52.828,159.104,2026-11-21 00:32:48.295,298,0
+"3 km ENE of Nanawale Estates, Hawaii",Hawaii,2.51,md,76.0500030517578,19.5201663970947,-154.880172729492,2026-11-21 00:21:27.300,97,0
+"41 km ENE of Maneadero, B.C., MX",MX,2.7,ml,11.46,31.867,-116.17233,2026-11-21 00:10:03.910,112,0
+"9 km NE of Carhuamayo, Peru",Peru,6.7,mww,107.991,-10.8548,-75.9779,2026-11-21 00:09:19.667,758,1
+"30 km WSW of Denali Park, Alaska",Alaska,2.8,ml,119.8,63.651,-149.494,2026-11-21 00:07:15.701,121,0
+"115 km W of Illapel, Chile",Chile,4.4,mwr,10.0,-31.7122,-72.3842,2026-11-20 23:37:33.534,298,0
+"113 km ESE of Pangai, Tonga",Tonga,4.9,mb,10.0,-20.3204,-173.4099,2026-11-20 22:34:39.096,369,0
+"65 km W of Ollagüe, Chile",Chile,4.2,mwr,114.345,-21.1895,-68.8815,2026-11-20 22:32:13.976,271,0
+Reykjanes Ridge,Reykjanes Ridge,4.4,mb,10.0,57.3672,-32.8037,2026-11-20 22:31:20.701,298,0
+Reykjanes Ridge,Reykjanes Ridge,4.4,mb,10.0,57.6886,-32.3793,2026-11-20 22:30:46.671,298,0
+Reykjanes Ridge,Reykjanes Ridge,4.4,mb,10.0,58.4869,-31.6011,2026-11-20 20:29:51.959,298,0
+"159 km SSW of Akhiok, Alaska",Alaska,2.8,ml,47.9,55.745,-155.577,2026-11-20 19:07:26.037,121,0
+"192 km SW of Bluff, New Zealand",New Zealand,4.2,mb,10.0,-47.5959,166.2638,2026-11-20 19:04:54.178,271,0
+"59 km SSW of Cantwell, Alaska",Alaska,3.5,ml,81.6,62.925,-149.527,2026-11-20 18:45:11.073,188,0
+"32 km NE of Port-Olry, Vanuatu",Vanuatu,5.1,mb,94.53,-14.835,167.29,2026-11-20 17:53:15.442,400,0
+"91 km N of Charlotte Amalie, U.S. Virgin Islands",U.S. Virgin Islands,3.42,md,13.44,19.164,-64.8121666666667,2026-11-20 16:52:47.200,180,0
+"109 km NNE of Lospalos, Timor Leste",Timor Leste,4.4,mb,143.686,-7.6315,127.4332,2026-11-20 16:41:13.832,298,0
+"39 km SE of Denali National Park, Alaska",Alaska,2.7,ml,5.0,63.302,-151.14,2026-11-20 15:11:52.850,112,0
+"5 km NW of Pinnacles, CA",CA,2.68,md,6.73000001907349,36.5615005493164,-121.178337097168,2026-11-20 15:07:18.700,114,0
+"94 km W of Illapel, Chile",Chile,4.7,mb,10.0,-31.7842,-72.1485,2026-11-20 14:16:15.225,340,0
+"202 km S of Akhiok, Alaska",Alaska,3.0,ml,5.0,55.131,-154.01,2026-11-20 14:02:14.679,138,0
+"18 km ENE of Tilden, Texas",Texas,2.9,ml,6.7691,28.539,-98.387,2026-11-20 13:57:37.989,129,0
+"15 km SSW of Balangonan, Philippines",Philippines,5.1,mb,73.392,5.4441,125.2986,2026-11-20 13:09:04.057,402,0
+"1 km NW of Commerce, CA",CA,3.94,mw,15.45,34.00633,-118.1665,2026-11-20 11:25:35.140,639,1
+"16 km SSW of Volcano, Hawaii",Hawaii,2.77,ml,30.18,19.3073333333333,-155.2975,2026-11-20 11:12:31.820,118,0
+"86 km ESE of Adak, Alaska",Alaska,4.1,ml,40.2,51.585,-175.474,2026-11-20 11:01:12.830,259,0
+"70 km SSE of Kokhanok, Alaska",Alaska,2.9,ml,128.7,58.846,-154.35,2026-11-20 10:57:55.711,129,0
+Fiji region,Fiji region,4.4,mb,622.356,-19.4364,-178.0132,2026-11-20 10:52:55.274,298,0
+"6 km NW of Pinnacles, CA",CA,2.52,md,4.59000015258789,36.5681648254395,-121.193496704102,2026-11-20 10:49:42.770,99,0
+southeast of the Loyalty Islands,southeast of the Loyalty Islands,4.7,mb,10.0,-24.6606,171.1906,2026-11-20 10:48:44.362,340,0
+southeast of the Loyalty Islands,southeast of the Loyalty Islands,5.0,mww,10.0,-24.7463,171.4327,2026-11-20 10:30:01.069,385,0
+"40 km SSE of Koróni, Greece",Greece,4.6,mb,41.976,36.4406,22.082,2026-11-20 10:16:14.294,326,0
+"12 km NNW of Nikiski, Alaska",Alaska,3.4,ml,75.7,60.787,-151.402,2026-11-20 08:48:06.974,178,0
+Carlsberg Ridge,Carlsberg Ridge,5.4,mww,10.0,9.7949,57.7485,2026-11-20 08:44:11.644,449,0
+Carlsberg Ridge,Carlsberg Ridge,4.7,mb,10.0,9.7529,57.8408,2026-11-20 08:42:54.187,340,0
+"25 km NE of Beluga, Alaska",Alaska,2.8,ml,49.8,61.278,-150.706,2026-11-20 08:36:07.388,121,0
+"10 km NW of Pinnacles, CA",CA,2.71,md,3.07999992370605,36.5866661071777,-121.231498718262,2026-11-20 08:36:04.140,114,0
+"10 km NW of Pinnacles, CA",CA,3.06,ml,6.6399998664856,36.5986671447754,-121.216331481934,2026-11-20 08:35:27.320,145,0
+"8 km NW of Pinnacles, CA",CA,2.59,md,6.13000011444092,36.5801658630371,-121.209167480469,2026-11-20 08:25:28.950,103,0
+"6 km NW of Pinnacles, CA",CA,2.55,md,6.40000009536743,36.5696678161621,-121.19766998291,2026-11-20 08:14:45.100,100,0
+"6 km NW of Pinnacles, CA",CA,2.54,md,4.96999979019165,36.571834564209,-121.195663452148,2026-11-20 07:58:37.920,99,0
+"7 km NW of Pinnacles, CA",CA,2.6,md,5.1100001335144,36.5728340148926,-121.199165344238,2026-11-20 07:57:06.280,104,0
+"128 km SSE of Sand Point, Alaska",Alaska,3.2,ml,26.2,54.278,-159.694,2026-11-20 07:53:31.836,158,0
+"9 km NW of Pinnacles, CA",CA,2.55,md,6.84999990463257,36.5888328552246,-121.217330932617,2026-11-20 07:46:27.620,101,0
+"5 km NW of Pinnacles, CA",CA,2.68,md,5.09000015258789,36.5625,-121.186332702637,2026-11-20 07:21:11.480,111,0
+"9 km NW of Pinnacles, CA",CA,2.64,md,5.21999979019165,36.5803337097168,-121.216835021973,2026-11-20 07:19:46.810,107,0
+"6 km NW of Pinnacles, CA",CA,3.38,ml,7.0,36.5688323974609,-121.188667297363,2026-11-20 07:14:25.490,187,0
+"8 km NW of Pinnacles, CA",CA,2.53,md,5.92000007629395,36.578498840332,-121.205001831055,2026-11-20 06:57:14.030,99,0
+"10 km NNW of Pinnacles, CA",CA,2.96,ml,6.07999992370605,36.6098327636719,-121.205169677734,2026-11-20 06:52:33.440,144,0
+"10 km NW of Pinnacles, CA",CA,4.98,mw,6.44,36.6071666666667,-121.208333333333,2026-11-20 06:49:16.340,1002,1
+"53 km W of Happy Valley, Alaska",Alaska,3.0,ml,94.9,59.998,-152.681,2026-11-20 06:12:44.187,138,0
+"10 km NW of Pinnacles, CA",CA,3.31,ml,6.42999982833862,36.5923347473145,-121.22233581543,2026-11-20 06:12:10.440,180,0
+"9 km NW of Pinnacles, CA",CA,3.11,ml,7.21000003814697,36.5900001525879,-121.216499328613,2026-11-20 05:53:23.950,151,0
+"46 km NNE of Pa‘auilo, Hawaii",Hawaii,2.51,ml,-0.44,20.4458333333333,-155.246166666667,2026-11-20 05:29:53.930,98,0
+"41 km NW of San Antonio, Puerto Rico",Puerto Rico,2.82,md,11.58,18.7415,-67.3871666666667,2026-11-20 05:20:10.960,122,0
+"54 km W of Madang, Papua New Guinea",Papua New Guinea,4.9,mb,97.583,-5.219,145.2974,2026-11-20 05:17:45.106,370,0
+"42 km WNW of Nanwalek, Alaska",Alaska,2.6,ml,77.9,59.525,-152.59,2026-11-20 04:37:19.014,104,0
+"24 km ESE of Calingasta, Argentina",Argentina,4.8,mb,113.86,-31.4302,-69.1883,2026-11-20 02:57:18.070,356,0
+"293 km S of Ōyama, Japan",Japan,4.2,mb,312.575,31.9627,138.4096,2026-11-20 01:20:07.698,271,0
+southeast of the Loyalty Islands,southeast of the Loyalty Islands,5.6,mww,10.0,-24.6996,171.2326,2026-11-20 00:49:14.102,482,0
+"98 km SSW of Kaktovik, Alaska",Alaska,2.9,ml,5.0,69.334,-144.732,2026-11-19 22:34:06.053,129,0
+"236 km W of Tual, Indonesia",Indonesia,4.5,mb,124.788,-6.0263,130.6505,2026-11-19 21:49:33.219,312,0
+"42 km WSW of Olancha, CA",CA,2.52,ml,6.01,36.1355,-118.43717,2026-11-19 20:49:27.510,98,0
+"69 km E of Port Alsworth, Alaska",Alaska,2.9,ml,135.9,60.147,-153.06,2026-11-19 20:23:56.618,129,0
+South Georgia Island region,South Georgia Island region,5.3,mb,10.0,-55.0035,-33.5069,2026-11-19 20:07:49.383,432,0
+central East Pacific Rise,central East Pacific Rise,5.0,mb,10.0,-9.1894,-109.9127,2026-11-19 20:07:09.754,385,0
+"13 km WNW of Xichang, China",China,4.9,mb,10.0,27.9346,102.1326,2026-11-19 18:41:19.631,369,0
+"122 km NNE of Punta Cana, Dominican Republic",Dominican Republic,3.29,md,83.49,19.5113333333333,-67.7706666666667,2026-11-19 18:29:38.630,167,0
+"108 km NNE of Punta Cana, Dominican Republic",Dominican Republic,3.44,md,42.33,19.493,-68.0318333333333,2026-11-19 18:19:01.020,182,0
+"99 km WSW of Illapel, Chile",Chile,5.1,mww,10.0,-31.8465,-72.1843,2026-11-19 18:09:46.530,400,0
+"170 km NW of Panguna, Papua New Guinea",Papua New Guinea,4.3,mb,113.181,-5.4474,154.2159,2026-11-19 15:38:20.197,284,0
+"19 km SW of Toms Place, CA",CA,2.98,md,3.15000009536743,37.4558334350586,-118.846168518066,2026-11-19 13:58:21.570,137,0
+"40 km ESE of Chiniak, Alaska",Alaska,2.6,ml,11.2,57.423,-151.713,2026-11-19 13:44:34.105,104,0
+"24 km SW of Ackerly, Texas",Texas,3.2,ml,8.1787,32.365,-101.898,2026-11-19 13:09:23.372,158,0
+"53 km ESE of Cruz Bay, U.S. Virgin Islands",U.S. Virgin Islands,3.04,md,16.84,18.2296666666667,-64.3001666666667,2026-11-19 13:06:28.440,142,0
+"65 km SSW of Atka, Alaska",Alaska,4.9,mb,46.052,51.6797,-174.66,2026-11-19 13:05:22.466,369,0
+"26 km WSW of Cantwell, Alaska",Alaska,3.2,ml,87.0,63.26,-149.398,2026-11-19 13:04:52.568,158,0
+South Sandwich Islands region,South Sandwich Islands region,4.7,mb,35.0,-55.596,-28.3028,2026-11-19 13:04:33.345,340,0
+"19 km SW of Toms Place, CA",CA,2.75,ml,3.14000010490417,37.4536666870117,-118.842666625977,2026-11-19 12:24:26.160,116,0
+"31 km WSW of Rabaul, Papua New Guinea",Papua New Guinea,5.0,mb,194.803,-4.2965,151.8945,2026-11-19 10:53:07.767,385,0
+Fiji region,Fiji region,4.3,mb,445.053,-19.7086,-177.7237,2026-11-19 10:36:54.782,284,0
+"92 km W of San Juan, Peru",Peru,4.7,mb,10.0,-15.3841,-76.0248,2026-11-19 09:08:13.359,340,0
+"48 km N of Charlotte Amalie, U.S. Virgin Islands",U.S. Virgin Islands,4.25,md,47.0,18.7751,-64.8918,2026-11-19 09:06:34.910,294,0
+Scotia Sea,Scotia Sea,4.2,mb,10.0,-60.4851,-31.9532,2026-11-19 08:35:25.665,271,0
+"50 km SSE of Denali National Park, Alaska",Alaska,2.5,ml,1.2,63.102,-151.459,2026-11-19 07:34:42.544,96,0
+"70 km S of Ugashik, Alaska",Alaska,2.5,ml,5.0,56.889,-157.209,2026-11-19 07:05:59.188,96,0
+"67 km S of Ugashik, Alaska",Alaska,3.7,ml,0.0,56.914,-157.214,2026-11-19 06:49:24.699,211,0
+"42 km N of Kernville, CA",CA,3.51,ml,4.86,36.13333,-118.437,2026-11-19 06:40:11.370,193,0
+"21 km SSE of Ikungi, Tanzania",Tanzania,4.3,mb,10.0,-5.3254,34.8174,2026-11-19 06:10:26.169,284,0
+"7 km SSW of Primo Tapia, B.C., MX",MX,2.67,ml,15.8,32.16567,-116.94617,2026-11-19 06:02:46.870,110,0
+"23 km SSE of Guayaquil, Ecuador",Ecuador,4.8,mww,69.493,-2.4019,-79.8204,2026-11-19 05:49:26.623,361,0
+"25 km S of Port Graham, Alaska",Alaska,3.0,ml,50.3,59.122,-151.806,2026-11-19 04:22:10.307,138,0
+"36 km NNE of Kilimatinde, Tanzania",Tanzania,4.9,mb,10.0,-5.5431,35.0812,2026-11-19 02:11:23.115,370,0
+"130 km W of Teluk Dalam, Indonesia",Indonesia,5.2,mww,10.0,0.5027,96.6318,2026-11-19 01:34:48.394,416,0
+"40 km NNE of Kilimatinde, Tanzania",Tanzania,4.8,mww,10.0,-5.5109,35.0903,2026-11-19 01:29:33.145,355,0
+"15 km NNE of Milford, Utah",Utah,2.78,ml,3.46,38.5171666666667,-112.926666666667,2026-11-19 00:05:21.480,119,0
+"31 km SE of Esperanza, Puerto Rico",Puerto Rico,2.55,md,20.49,17.9095,-65.2498333333333,2026-11-18 23:44:31.790,100,0
+"18 km ENE of Borrego Springs, CA",CA,3.36,ml,11.79,33.30133,-116.19133,2026-11-18 23:39:21.280,189,0
+"11 km SSW of Santa Gertrudis Miramar, Mexico",Mexico,4.8,mb,35.0,15.9616,-95.4267,2026-11-18 22:06:52.958,354,0
+"169 km S of Attu Station, Alaska",Alaska,5.2,mww,10.0,51.3379,172.8596,2026-11-18 21:28:47.088,416,0
+"134 km SW of Lorengau, Papua New Guinea",Papua New Guinea,4.7,mb,16.856,-2.9421,146.4693,2026-11-18 20:38:39.129,340,0
+"12 km SSE of Jimalalud, Philippines",Philippines,4.4,mb,10.0,9.8835,123.257,2026-11-18 20:30:54.635,298,0
+Pacific-Antarctic Ridge,Pacific-Antarctic Ridge,5.2,mb,10.0,-57.9547,-146.5262,2026-11-18 19:21:15.136,416,0
+Pacific-Antarctic Ridge,Pacific-Antarctic Ridge,6.0,mww,10.0,-57.5192,-146.8744,2026-11-18 19:14:23.203,554,0
+"14 km N of Susanville, CA",CA,2.55,md,4.09000015258789,40.5398330688477,-120.668663024902,2026-11-18 18:49:26.640,100,0
+"20 km SSW of Ollagüe, Chile",Chile,4.5,mb,129.419,-21.41,-68.2976,2026-11-18 18:46:53.085,312,0
+"46 km SE of Ikungi, Tanzania",Tanzania,4.8,mww,10.0,-5.4134,35.082,2026-11-18 18:08:01.097,355,0
+"44 km NNE of Kilimatinde, Tanzania",Tanzania,4.3,mb,10.0,-5.4699,35.0796,2026-11-18 18:07:31.356,285,0
+"4 km N of Tsunagi, Japan",Japan,5.3,mww,10.0,32.2798,130.4667,2026-11-18 17:22:23.428,436,0
+"9 km NW of Seeley Lake, Montana",Montana,2.7,ml,10.0,47.2371,-113.5736,2026-11-18 16:33:27.127,112,0
+"83 km W of Lincoln City, Oregon",Oregon,2.5,ml,-0.21,45.0855,-125.062666666667,2026-11-18 16:25:02.070,96,0
+off the coast of Oregon,off the coast of Oregon,4.2,mb,10.0,43.7963,-128.0431,2026-11-18 16:24:27.988,271,0
+"149 km SSW of Merizo Village, Guam",Guam,5.3,mb,10.0,12.0918,143.9927,2026-11-18 16:06:51.220,432,0
+"91 km SW of San Clemente Is. (NW tip), CA",CA,3.3,ml,5.76,32.38867,-119.212,2026-11-18 13:58:45.390,168,0
+"33 km SE of Mina, Nevada",Nevada,2.85,ml,7.1777,38.1669,-117.8467,2026-11-18 13:56:49.271,125,0
+"64 km ESE of Sand Point, Alaska",Alaska,2.8,ml,19.3,55.094,-159.588,2026-11-18 13:49:35.949,121,0
+"49 km W of Petrolia, CA",CA,2.93,md,5.01999998092651,40.2734985351562,-124.864166259766,2026-11-18 13:05:18.670,132,0
+"95 km SSW of Unalaska, Alaska",Alaska,3.1,ml,33.7,53.056,-166.952,2026-11-18 12:59:35.547,148,0
+"3 km N of Skwentna, Alaska",Alaska,3.3,ml,78.5,62.019,-151.408,2026-11-18 12:46:07.775,168,0
+"137 km WSW of Adak, Alaska",Alaska,4.0,mb,35.0,51.2013,-178.2976,2026-11-18 12:27:56.075,246,0
+West Chile Rise,West Chile Rise,4.9,mb,10.0,-39.6909,-91.5033,2026-11-18 11:10:57.037,369,0
+"73 km E of Chignik, Alaska",Alaska,2.8,ml,26.9,56.282,-157.217,2026-11-18 11:05:58.520,121,0
+"211 km W of Adak, Alaska",Alaska,3.4,ml,97.3,51.677,-179.687,2026-11-18 10:36:40.316,178,0
+"42 km SSW of Adak, Alaska",Alaska,3.0,ml,41.0,51.511,-176.803,2026-11-18 09:43:12.688,138,0
+"86 km NW of Ryōtsu-minato, Japan",Japan,5.2,mb,10.0,38.7192,137.8725,2026-11-18 09:37:00.617,416,0
+"62 km E of Port Alsworth, Alaska",Alaska,2.7,ml,0.5,60.249,-153.201,2026-11-18 09:33:04.132,112,0
+"62 km ENE of Nikolai, Alaska",Alaska,2.6,ml,6.3,63.273,-153.28,2026-11-18 09:02:30.783,104,0
+"42 km SSE of Denali National Park, Alaska",Alaska,2.5,ml,5.0,63.214,-151.29,2026-11-18 06:35:06.360,96,0
+"85 km WNW of San Juan, Peru",Peru,5.9,mww,21.895,-15.1438,-75.9238,2026-11-18 06:07:42.780,537,0
+"96 km SW of San Clemente Is. (NW tip), CA",CA,3.94,mw,5.8,32.346,-119.2325,2026-11-18 05:27:41.920,240,0
+Galapagos Triple Junction region,Galapagos Triple Junction region,5.2,mb,10.0,0.4346,-103.0838,2026-11-18 05:25:43.280,416,0
+"67 km NNE of Ruteng, Indonesia",Indonesia,4.8,mb,10.0,-8.0301,120.6485,2026-11-18 05:24:55.060,354,0
+"92 km NE of Lime Village, Alaska",Alaska,2.5,ml,0.7,61.898,-154.118,2026-11-18 05:15:46.893,96,0
+south of the Fiji Islands,south of the Fiji Islands,4.4,mb,507.035,-24.2437,-178.9306,2026-11-18 04:59:00.780,298,0
+"95 km SSE of Tmourghout, Morocco",Morocco,4.1,mb,10.0,33.1868,-3.4696,2026-11-18 04:49:11.633,259,0
+"40 km N of Ruteng, Indonesia",Indonesia,5.8,mww,10.0,-8.2501,120.5285,2026-11-18 04:41:32.015,518,0
+"54 km NNE of Ruteng, Indonesia",Indonesia,5.2,mb,10.0,-8.151,120.6489,2026-11-18 04:21:35.658,416,0
+"99 km ESE of Madang, Papua New Guinea",Papua New Guinea,5.8,mww,52.291,-5.7009,146.5479,2026-11-18 03:42:34.269,519,0
+"10 km W of Healy, Alaska",Alaska,2.6,ml,0.8,63.865,-149.181,2026-11-18 03:39:50.917,104,0
+"134 km ENE of Nabire, Indonesia",Indonesia,4.8,mb,10.0,-2.9907,136.6576,2026-11-18 03:23:58.023,354,0
+"11 km SW of Weston, Colorado",Colorado,2.6,ml,6.081,37.0461,-104.9291,2026-11-18 03:01:33.114,104,0
+"47 km S of Boca de Yuma, Dominican Republic",Dominican Republic,4.06,md,90.0,17.9463,-68.6115,2026-11-18 02:46:16.700,255,0
+"150 km SW of Merizo Village, Guam",Guam,5.8,mww,10.0,12.1387,143.8866,2026-11-18 02:22:56.671,520,0
+"179 km W of Adak, Alaska",Alaska,3.1,ml,94.4,51.662,-179.205,2026-11-18 02:08:02.278,148,0
+"117 km SSE of Sand Point, Alaska",Alaska,2.9,ml,0.2,54.325,-159.949,2026-11-18 01:15:58.314,129,0
+"63 km SE of Denali National Park, Alaska",Alaska,2.7,ml,126.9,63.213,-150.693,2026-11-18 01:02:51.682,112,0
+"17 km ESE of Comandău, Romania",Romania,5.3,mww,132.362,45.6816,26.4521,2026-11-18 00:48:56.305,617,0
+"7 km SE of Karakenja, Tajikistan",Tajikistan,5.3,mb,10.0,39.1912,71.5875,2026-11-18 00:46:31.418,432,0
+"29 km S of Glacier View, Alaska",Alaska,2.8,ml,13.0,61.543,-147.614,2026-11-18 00:26:22.809,121,0
+Owen Fracture Zone region,Owen Fracture Zone region,4.5,mb,10.0,13.022,57.6884,2026-11-17 23:25:33.527,312,0
+"103 km N of Akutan, Alaska",Alaska,3.0,ml,260.1,55.067,-165.8,2026-11-17 23:14:46.603,138,0
+"10 km ESE of Metahāra, Ethiopia",Ethiopia,4.6,mb,10.0,8.868,40.0032,2026-11-17 22:52:05.954,326,0
+"51 km SSW of Nanwalek, Alaska",Alaska,2.9,ml,40.8,58.916,-152.189,2026-11-17 22:19:27.818,129,0
+"143 km SSE of False Pass, Alaska",Alaska,3.5,ml,16.5,53.608,-162.863,2026-11-17 20:45:32.531,188,0
+"209 km SSE of Chiniak, Alaska",Alaska,3.5,ml,0.0,56.04,-150.383,2026-11-17 20:25:28.385,188,0
+"133 km SSE of False Pass, Alaska",Alaska,3.1,ml,12.5,53.688,-162.906,2026-11-17 20:17:44.940,148,0
+"35 km WSW of Palauig, Philippines",Philippines,4.4,mb,10.0,15.2971,119.6092,2026-11-17 20:12:28.569,298,0
+"45 km SSE of Unalaska, Alaska",Alaska,2.8,ml,91.6,53.494,-166.301,2026-11-17 19:58:49.043,121,0
+"12 km SE of Pocsi, Peru",Peru,4.1,mb,150.148,-16.609,-71.3236,2026-11-17 18:50:40.298,259,0
+"26 km NW of Port-Vila, Vanuatu",Vanuatu,4.5,mb,10.0,-17.5637,168.1379,2026-11-17 18:15:19.134,312,0
+"1 km NW of Macaracas, Panama",Panama,4.3,mb,10.0,7.7396,-80.565,2026-11-17 18:02:32.376,286,0
+"83 km ENE of Ugashik, Alaska",Alaska,3.0,ml,126.3,57.824,-156.133,2026-11-17 17:12:42.571,138,0
+Fiji region,Fiji region,4.3,mb,593.667,-18.4813,-177.8262,2026-11-17 16:43:14.202,284,0
+"192 km W of Langlois, Oregon",Oregon,3.3,ml,18.229,43.2407,-126.769,2026-11-17 16:42:54.346,168,0
+"15 km SE of Deering, Alaska",Alaska,2.7,ml,5.1,65.983,-162.453,2026-11-17 16:38:14.100,112,0
+"141 km NW of Kavieng, Papua New Guinea",Papua New Guinea,4.8,mb,10.0,-1.6653,149.8973,2026-11-17 16:35:58.497,354,0
+"94 km SSE of Sand Point, Alaska",Alaska,2.8,ml,2.4,54.586,-159.794,2026-11-17 16:30:08.931,121,0
+"135 km S of Vilyuchinsk, Russia",Russia,4.9,mb,83.167,51.712,158.4777,2026-11-17 15:49:27.642,369,0
+"102 km ENE of Ozernovskiy, Russia",Russia,4.9,mb,87.3,51.9624,157.7885,2026-11-17 15:48:48.868,369,0
+"5 km NE of Bachajón, Mexico",Mexico,4.4,mb,10.0,17.0781,-92.1568,2026-11-17 15:39:08.661,298,0
+"249 km WSW of Adak, Alaska",Alaska,4.0,mb,15.047,50.8142,-179.7903,2026-11-17 15:19:39.728,246,0
+"86 km SSW of Atocha, Bolivia",Bolivia,4.2,mb,233.435,-21.5905,-66.6737,2026-11-17 15:00:17.137,271,0
+"21 km ESE of Khorugh, Tajikistan",Tajikistan,4.4,mb,131.901,37.4353,71.7849,2026-11-17 14:59:09.523,298,0
+"11 km SE of Shahrud, Iran",Iran,4.4,mb,10.0,36.358,55.077,2026-11-17 14:54:00.982,298,0
+"14 km SSW of Falls City, Texas",Texas,3.0,ml,9.6432,28.869,-98.085,2026-11-17 14:25:27.642,139,0
+south of the Kermadec Islands,south of the Kermadec Islands,5.2,mww,337.077,-32.3057,179.8423,2026-11-17 14:20:36.814,416,0
+"41 km SSW of Akhiok, Alaska",Alaska,2.5,ml,44.7,56.614,-154.493,2026-11-17 13:34:11.233,96,0
+"29 km ENE of Cruz Bay, U.S. Virgin Islands",U.S. Virgin Islands,3.36,md,56.0,18.4383,-64.5343,2026-11-17 13:00:04.790,174,0
+"29 km E of Chenega, Alaska",Alaska,2.8,ml,23.1,60.105,-147.489,2026-11-17 12:47:23.994,121,0
+"95 km W of Alotau, Papua New Guinea",Papua New Guinea,4.5,mb,10.0,-10.2678,149.5845,2026-11-17 12:26:16.641,312,0
+"31 km N of Skwentna, Alaska",Alaska,2.5,ml,90.4,62.273,-151.429,2026-11-17 12:06:26.061,96,0
+"66 km ENE of Port Alsworth, Alaska",Alaska,2.6,ml,143.2,60.349,-153.143,2026-11-17 11:36:10.963,104,0
+"141 km NE of Lospalos, Timor Leste",Timor Leste,4.2,mb,144.012,-7.5464,127.8304,2026-11-17 11:15:26.741,271,0
+"8 km WNW of Piti Village, Guam",Guam,4.5,mb,106.835,13.4806,144.6211,2026-11-17 11:12:59.760,314,0
+"173 km ENE of Noda, Japan",Japan,4.9,mb,26.644,40.6353,143.7461,2026-11-17 10:32:58.639,369,0
+"43 km NW of Oxford, New Zealand",New Zealand,4.9,mb,14.237,-43.0226,171.805,2026-11-17 10:30:48.773,382,0
+"15 km E of Pearsall, Texas",Texas,2.9,ml,7.6545,28.866,-98.935,2026-11-17 09:54:58.660,129,0
+"36 km WNW of Skwentna, Alaska",Alaska,2.9,ml,109.0,62.153,-152.007,2026-11-17 09:43:36.714,129,0
+"102 km SE of False Pass, Alaska",Alaska,2.7,ml,5.9,54.125,-162.436,2026-11-17 08:58:49.583,112,0
+"35 km ENE of Miguel Ahumada, Mexico",Mexico,3.8,ml,10.0,30.6968,-106.1553,2026-11-17 08:25:59.326,223,0
+"75 km W of Akhiok, Alaska",Alaska,2.6,ml,5.1,56.976,-155.415,2026-11-17 07:43:06.442,104,0
+"84 km S of Unalaska, Alaska",Alaska,3.6,ml,10.0,53.1216,-166.3904,2026-11-17 07:39:07.028,199,0
+"14 km NNE of Milford, Utah",Utah,2.63,ml,4.48,38.5118333333333,-112.9275,2026-11-17 07:13:34.380,106,0
+"64 km S of Akutan, Alaska",Alaska,2.6,ml,27.6,53.561,-165.62,2026-11-17 07:05:47.338,104,0
+"15 km NE of Kaltag, Alaska",Alaska,2.5,ml,2.9,64.416,-158.471,2026-11-17 06:42:21.802,96,0
+"11 km ESE of Silver Springs, Nevada",Nevada,3.01,ml,12.0393,39.3807,-119.0993,2026-11-17 06:32:05.466,143,0
+"58 km WNW of Malfa, Italy",Italy,4.2,mb,10.0,38.8103,14.2324,2026-11-17 05:51:45.020,271,0
+south of the Fiji Islands,south of the Fiji Islands,4.4,mb,167.972,-26.5215,-177.3616,2026-11-17 05:47:56.509,298,0
+"15 km WSW of Akhiok, Alaska",Alaska,3.6,ml,53.4,56.907,-154.412,2026-11-17 04:56:50.638,199,0
+"60 km WNW of Anchor Point, Alaska",Alaska,3.3,ml,117.6,59.995,-152.818,2026-11-17 04:42:53.861,168,0
+"99 km NNE of Punta Cana, Dominican Republic",Dominican Republic,3.39,md,54.63,19.4153333333333,-68.0616666666667,2026-11-17 04:19:57.480,177,0
+"26 km E of Port-Olry, Vanuatu",Vanuatu,4.9,mb,126.959,-15.005,167.3139,2026-11-17 03:52:32.360,369,0
+"87 km SSE of Chenega, Alaska",Alaska,2.7,ml,18.3,59.358,-147.349,2026-11-17 02:29:46.651,112,0
+"137 km SSE of Kirakira, Solomon Islands",Solomon Islands,5.0,mb,10.0,-11.5293,162.5497,2026-11-17 02:00:17.654,385,0
+"51 km S of Denali National Park, Alaska",Alaska,3.9,ml,1.4,63.083,-151.538,2026-11-17 01:56:06.600,234,0
+"94 km SSE of Akutan, Alaska",Alaska,2.8,ml,19.8,53.387,-165.082,2026-11-17 00:31:39.163,121,0
+"9 km SSW of Willow, Alaska",Alaska,2.5,ml,26.6,61.663,-150.083,2026-11-16 23:05:25.904,96,0
+"130 km N of Caluula, Somalia",Somalia,4.6,mb,10.0,13.1425,50.7721,2026-11-16 22:21:25.970,326,0
+"121 km WSW of Tual, Indonesia",Indonesia,4.4,mb,35.0,-5.9708,131.7057,2026-11-16 22:17:32.469,298,0
+"153 km SSE of Isangel, Vanuatu",Vanuatu,4.7,mb,114.74,-20.8029,169.9015,2026-11-16 21:55:58.036,340,0
+"16 km NW of Lopez Point, CA",CA,2.79,md,10.6000003814697,36.1066665649414,-121.709663391113,2026-11-16 21:17:19.700,121,0
+"149 km WSW of Tual, Indonesia",Indonesia,6.6,mww,68.0,-6.0208,131.4593,2026-11-16 21:11:20.488,674,0
+"52 km W of Valparaíso, Chile",Chile,4.4,mb,10.0,-33.0095,-72.1955,2026-11-16 19:51:55.895,298,0
+"103 km WSW of Changuillo, Peru",Peru,4.5,mb,10.0,-15.0591,-76.0946,2026-11-16 19:44:54.003,312,0
+"144 km NW of Kavieng, Papua New Guinea",Papua New Guinea,4.6,mb,10.0,-1.7205,149.8061,2026-11-16 19:33:00.666,326,0
+"77 km WSW of Changuillo, Peru",Peru,4.7,mb,10.0,-14.9779,-75.8684,2026-11-16 19:26:34.776,340,0
+"63 km NNE of Stony River, Alaska",Alaska,3.1,ml,5.0,62.344,-156.341,2026-11-16 19:07:20.534,148,0
+"64 km SSE of Unalaska, Alaska",Alaska,3.6,ml,27.968,53.3316,-166.203,2026-11-16 18:08:16.110,199,0
+"43 km S of Jurm, Afghanistan",Afghanistan,4.1,mb,202.737,36.4773,70.7503,2026-11-16 18:02:25.427,259,0
+"Rat Islands, Aleutian Islands, Alaska",Alaska,3.9,ml,17.1,51.018,179.175,2026-11-16 16:27:32.660,234,0
+"28 km SW of Changuillo, Peru",Peru,4.8,mb,39.085,-14.8364,-75.4229,2026-11-16 16:23:18.453,355,0
+"95 km WSW of Changuillo, Peru",Peru,5.4,mww,10.0,-15.0306,-76.0259,2026-11-16 16:16:45.265,449,0
+"11 km SSE of Stonewall Gap, Colorado",Colorado,2.8,ml,5.0,37.0611,-104.9785,2026-11-16 15:41:50.996,121,0
+"164 km W of Trinidad, California",California,3.2,ml,10.0,41.1499,-126.0997,2026-11-16 14:02:30.072,158,0
+"113 km ESE of Wadomari, Japan",Japan,4.6,mb,10.0,26.8491,129.6312,2026-11-16 13:32:25.974,326,0
+"166 km N of Caluula, Somalia",Somalia,4.8,mb,10.0,13.474,50.742,2026-11-16 13:30:33.980,354,0
+"78 km S of Severo-Kuril’sk, Russia",Russia,4.5,mb,85.011,49.9837,155.9172,2026-11-16 13:25:21.731,312,0
+"55 km ENE of Pedro Bay, Alaska",Alaska,3.7,ml,139.0,59.985,-153.2,2026-11-16 12:36:09.545,211,0
+"39 km ESE of Yakutat, Alaska",Alaska,2.8,ml,14.3,59.474,-139.042,2026-11-16 12:24:19.280,121,0
+"15 km ESE of Ninilchik, Alaska",Alaska,2.6,ml,71.0,59.976,-151.427,2026-11-16 10:21:15.655,104,0
+"68 km S of Sarangani, Philippines",Philippines,5.0,mb,10.0,4.7842,125.4267,2026-11-16 07:14:14.483,385,0
+"297 km SSE of Amahai, Indonesia",Indonesia,4.3,mb,138.691,-5.807,129.9952,2026-11-16 07:08:09.864,284,0
+"124 km NE of Quiaca, Peru",Peru,4.3,mb,626.486,-13.6058,-68.57,2026-11-16 06:47:34.187,284,0
+"20 km NNW of Lime Village, Alaska",Alaska,2.7,ml,0.5,61.529,-155.573,2026-11-16 06:32:45.483,112,0
+"45 km E of Denali National Park, Alaska",Alaska,2.5,ml,3.2,63.523,-150.8,2026-11-16 05:16:38.125,96,0
+"11 km NNE of Susitna North, Alaska",Alaska,2.5,ml,5.0,62.261,-149.786,2026-11-16 04:33:32.584,96,0
+"20 km NW of Anamizu, Japan",Japan,5.4,mww,273.644,37.3664,136.7444,2026-11-16 04:24:11.718,449,0
+"18 km ESE of Pearsall, Texas",Texas,2.5,ml,6.9402,28.81,-98.927,2026-11-16 03:08:13.597,96,0
+"271 km SE of Chiniak, Alaska",Alaska,3.6,ml,32.8,55.825,-149.264,2026-11-16 03:06:26.067,199,0
+"2 km SW of Santa María Huazolotitlán, Mexico",Mexico,4.4,mb,10.0,16.2825,-97.9283,2026-11-16 01:09:00.831,298,0
+"66 km W of Kalaoa, Hawaii",Hawaii,3.09,ml,42.4,19.8355,-156.6045,2026-11-16 00:42:01.020,147,0
+"16 km WSW of Susitna, Alaska",Alaska,2.7,ml,62.3,61.494,-150.802,2026-11-16 00:06:35.587,112,0
+"72 km WNW of Abra Pampa, Argentina",Argentina,4.4,mb,239.456,-22.5485,-66.374,2026-11-15 23:04:21.749,298,0
+"141 km ESE of Petropavlovsk-Kamchatsky, Russia",Russia,4.8,mb,10.0,52.4937,160.494,2026-11-15 22:38:19.154,354,0
+"7 km S of Knik, Alaska",Alaska,2.7,ml,8.0,61.39,-149.717,2026-11-15 21:48:48.120,112,0
+"44 km S of Jurm, Afghanistan",Afghanistan,4.9,mww,191.363,36.4657,70.9205,2026-11-15 21:37:21.082,369,0
+"87 km SSE of Ugashik, Alaska",Alaska,2.5,ml,69.6,56.758,-156.995,2026-11-15 21:00:29.551,96,0
+"256 km SSE of Ambon, Indonesia",Indonesia,5.0,mb,305.989,-5.9449,128.7523,2026-11-15 20:51:56.298,385,0
+"43 km SSE of King Salmon, Alaska",Alaska,2.6,ml,0.1,58.319,-156.397,2026-11-15 20:08:54.808,104,0
+"18 km SE of Silver Springs, Nevada",Nevada,3.05,ml,7.1651,39.31,-119.0525,2026-11-15 19:58:07.107,145,0
+"18 km NW of Old Harbor, Alaska",Alaska,2.5,ml,42.9,57.306,-153.544,2026-11-15 19:47:38.312,96,0
+"102 km ESE of Sarangani, Philippines",Philippines,4.4,mb,96.271,4.9457,126.2715,2026-11-15 19:38:39.971,298,0
+"26 km E of Estique, Peru",Peru,4.2,mb,170.709,-17.5342,-69.7721,2026-11-15 18:52:21.570,271,0
+"155 km SE of Chignik, Alaska",Alaska,2.6,ml,5.0,55.483,-156.382,2026-11-15 18:25:32.230,104,0
+"74 km N of Pārūn, Afghanistan",Afghanistan,5.0,mww,100.728,36.0947,70.9503,2026-11-15 17:48:36.959,385,0
+"20 km ENE of Susitna North, Alaska",Alaska,3.5,ml,9.4,62.2,-149.461,2026-11-15 17:13:49.968,190,0
+"273 km W of Tual, Indonesia",Indonesia,4.2,mb,121.411,-6.0924,130.3237,2026-11-15 16:06:14.983,271,0
+"114 km NNE of Punta Cana, Dominican Republic",Dominican Republic,3.4,md,49.52,19.467,-67.8496666666667,2026-11-15 15:52:44.490,178,0
+"169 km NW of Gorontalo, Indonesia",Indonesia,5.1,mb,487.384,1.7527,122.1345,2026-11-15 15:41:14.978,400,0
+"10 km WSW of Manley Hot Springs, Alaska",Alaska,2.5,ml,17.1,64.971,-150.841,2026-11-15 15:25:49.835,96,0
+"27 km SW of Minbu, Burma (Myanmar)",Burma (Myanmar),4.4,mb,81.566,19.9786,94.7157,2026-11-15 14:32:03.788,298,0
+"3 km N of Capulin, New Mexico",New Mexico,3.0,ml,9.921,36.2595,-106.8072,2026-11-15 14:29:56.330,140,0
+"60 km SE of Cantwell, Alaska",Alaska,2.6,ml,68.3,62.973,-148.187,2026-11-15 14:20:30.226,104,0
+"27 km ESE of Union, Philippines",Philippines,4.6,mb,10.0,9.6916,126.3512,2026-11-15 14:17:52.535,326,0
+"9 km E of Union, Philippines",Philippines,5.5,mb,9.971,9.7595,126.2,2026-11-15 13:41:35.701,472,0
+"69 km NNW of Chalkyitsik, Alaska",Alaska,3.4,ml,1.9,67.242,-144.284,2026-11-15 13:24:36.555,178,0
+"131 km E of Chignik, Alaska",Alaska,2.6,ml,46.8,56.326,-156.278,2026-11-15 12:51:38.361,104,0
+"6 km E of Calumet, Oklahoma",Oklahoma,3.06,ml,6.34,35.61283333,-98.04283333,2026-11-15 11:29:08.070,146,0
+"41 km SSW of La Tirana, Chile",Chile,4.1,mwr,27.161,-20.6143,-70.311,2026-11-15 11:23:56.246,262,0
+"55 km W of Valparaíso, Chile",Chile,4.1,mwr,19.435,-33.0263,-72.2191,2026-11-15 10:29:11.748,259,0
+"22 km ESE of Ruteng, Indonesia",Indonesia,4.4,mb,10.0,-8.6791,120.659,2026-11-15 09:24:50.714,298,0
+"56 km E of Pedro Bay, Alaska",Alaska,2.7,ml,104.4,59.797,-153.105,2026-11-15 09:18:47.165,112,0
+south of the Fiji Islands,south of the Fiji Islands,4.4,mb,545.344,-23.9733,179.8113,2026-11-15 08:50:06.639,298,0
+"36 km NE of Mountain Home, Idaho",Idaho,2.5,ml,9.393,43.4018,-115.4228,2026-11-15 08:49:08.463,96,0
+"64 km W of Nanwalek, Alaska",Alaska,2.5,ml,78.6,59.392,-153.045,2026-11-15 08:15:06.997,96,0
+"92 km NW of Houma, Tonga",Tonga,4.7,mb,177.524,-20.589,-175.9354,2026-11-15 07:36:37.211,340,0
+"96 km N of Charlotte Amalie, U.S. Virgin Islands",U.S. Virgin Islands,3.65,md,29.0,19.2088,-64.9756,2026-11-15 07:01:17.140,205,0
+"61 km N of Petersville, Alaska",Alaska,2.5,ml,114.9,63.045,-150.941,2026-11-15 05:54:13.361,96,0
+"11 km E of Chenega, Alaska",Alaska,3.9,ml,14.4,60.073,-147.799,2026-11-15 05:15:40.008,242,0
+Fiji region,Fiji region,5.5,mww,469.881,-19.5554,-177.8215,2026-11-15 05:15:02.697,465,0
+"75 km SSE of San Pedro de Atacama, Chile",Chile,4.3,mb,151.745,-23.5305,-67.904,2026-11-15 04:38:28.360,284,0
+"6 km E of Calumet, Oklahoma",Oklahoma,3.44,ml,6.77,35.61016667,-98.047,2026-11-15 04:32:14.160,196,0
+"115 km NW of San Antonio de los Cobres, Argentina",Argentina,4.4,mb,254.527,-23.446,-67.0737,2026-11-15 04:23:47.869,298,0
+"19 km NW of Albardón, Argentina",Argentina,4.8,mb,108.94,-31.3221,-68.6822,2026-11-15 03:59:59.682,354,0
+"75 km W of Ollagüe, Chile",Chile,4.3,mb,126.164,-21.2619,-68.9801,2026-11-15 03:53:49.679,284,0
+"Rat Islands, Aleutian Islands, Alaska",Alaska,4.2,mb,16.905,50.9127,179.3034,2026-11-15 03:02:44.244,271,0
+"8 km WSW of Corredor, Costa Rica",Costa Rica,4.3,mb,9.561,8.6125,-83.0217,2026-11-15 03:01:42.502,285,0
+"34 km SE of Malaga, New Mexico",New Mexico,3.0,ml,8.0865,32.011,-103.801,2026-11-15 02:24:39.644,138,0
+"Off the coast of Aisen, Chile",Chile,4.3,mb,10.0,-44.3607,-80.0144,2026-11-15 02:17:21.755,284,0
+"12 km NE of Enterprise, Utah",Utah,3.41,ml,12.07,41.189,-111.647833333333,2026-11-15 01:40:03.000,325,0
+"89 km NE of Punta Cana, Dominican Republic",Dominican Republic,3.09,md,3.37,19.156,-67.8105,2026-11-15 01:26:29.010,147,0
+"32 km SW of Nikolski, Alaska",Alaska,2.9,ml,60.513,52.7152,-169.1599,2026-11-14 23:58:15.776,129,0
+"106 km WSW of Pistol River, Oregon",Oregon,3.4,ml,10.0,42.0686,-125.6473,2026-11-14 23:22:03.473,178,0
+"196 km E of Atka, Alaska",Alaska,3.2,ml,35.0,52.0141,-171.3466,2026-11-14 22:33:24.252,158,0
+east central Pacific Ocean,east central Pacific Ocean,4.7,mb,10.0,3.7323,-99.113,2026-11-14 22:23:46.411,340,0
+"35 km E of Chenega, Alaska",Alaska,3.5,ml,2.0,60.009,-147.394,2026-11-14 22:00:18.823,189,0
+"25 km N of Ruteng, Indonesia",Indonesia,4.5,mb,10.0,-8.3823,120.443,2026-11-14 21:24:20.159,312,0
+"14 km N of Quebradillas, Puerto Rico",Puerto Rico,2.87,md,19.63,18.6018333333333,-66.934,2026-11-14 20:40:25.910,127,0
+"98 km S of Sand Point, Alaska",Alaska,2.7,ml,1.6,54.451,-160.48,2026-11-14 20:08:59.461,112,0
+"6 km W of Burning Man Earth, Nevada",Nevada,2.99,ml,5.2237,40.7571,-119.3005,2026-11-14 19:51:16.764,138,0
+"92 km S of Sand Point, Alaska",Alaska,2.7,ml,3.3,54.505,-160.369,2026-11-14 18:31:51.599,112,0
+"24 km S of Yacuiba, Bolivia",Bolivia,4.7,mb,506.268,-22.2364,-63.653,2026-11-14 18:04:01.078,340,0
+"29 km NE of Dannevirke, New Zealand",New Zealand,4.3,mb,27.863,-40.0345,176.3623,2026-11-14 17:51:29.113,286,0
+"96 km SSE of Pondaguitan, Philippines",Philippines,4.6,mb,65.399,5.5982,126.6097,2026-11-14 16:56:39.533,326,0
+"100 km WSW of Adak, Alaska",Alaska,2.6,ml,74.337,51.6704,-178.0546,2026-11-14 16:56:19.448,104,0
+"80 km SW of Adak, Alaska",Alaska,2.9,ml,38.6,51.369,-177.475,2026-11-14 16:46:30.832,129,0
+"62 km WNW of San Antonio de los Cobres, Argentina",Argentina,4.6,mb,197.571,-24.049,-66.9029,2026-11-14 16:36:19.635,326,0
+"20 km W of Pole Ojea, Puerto Rico",Puerto Rico,2.54,md,11.32,17.9923333333333,-67.3768333333333,2026-11-14 16:15:08.450,99,0
+"7 km SE of Tagbina, Philippines",Philippines,4.9,mb,154.123,8.3996,126.2112,2026-11-14 16:04:22.205,369,0
+"8 km W of Holtville, CA",CA,2.74,ml,11.84,32.82183,-115.46217,2026-11-14 15:34:45.270,116,0
+"8 km W of Holtville, CA",CA,2.86,ml,15.9,32.81667,-115.465,2026-11-14 15:33:34.140,127,0
+"131 km SSW of Unalaska, Alaska",Alaska,2.5,ml,3.4,52.715,-166.925,2026-11-14 15:24:36.287,96,0
+"204 km WSW of Adak, Alaska",Alaska,3.1,ml,15.8,51.182,-179.362,2026-11-14 13:53:59.361,148,0
+"26 km NE of Skwentna, Alaska",Alaska,2.5,ml,78.9,62.188,-151.107,2026-11-14 13:38:52.959,96,0
+"103 km SSW of Nikolski, Alaska",Alaska,3.9,ml,10.0,52.041,-169.239,2026-11-14 13:25:58.258,234,0
+"144 km ESE of Nikolski, Alaska",Alaska,2.6,ml,1.4,52.539,-166.832,2026-11-14 13:17:38.035,104,0
+south of the Kermadec Islands,south of the Kermadec Islands,4.9,mb,12.019,-33.0019,-178.3404,2026-11-14 13:17:20.799,369,0
+"137 km SE of Petropavlovsk-Kamchatsky, Russia",Russia,4.5,mb,17.439,52.3603,160.2984,2026-11-14 12:28:00.653,312,0
+"7 km W of Holtville, CA",CA,2.95,ml,11.91,32.803,-115.45417,2026-11-14 11:13:58.380,134,0
+"8 km W of Holtville, CA",CA,2.55,ml,11.64,32.81117,-115.46333,2026-11-14 11:13:35.870,100,0
+"7 km W of Holtville, CA",CA,2.97,ml,13.72,32.80867,-115.457,2026-11-14 11:12:55.090,136,0
+"8 km W of Holtville, CA",CA,3.01,ml,12.03,32.81,-115.46217,2026-11-14 11:09:27.950,141,0
+"8 km W of Holtville, CA",CA,2.65,ml,14.94,32.81333,-115.46183,2026-11-14 11:05:21.700,109,0
+"70 km SSW of Fīrūzābād, Iran",Iran,4.2,mb,10.0,28.225,52.422,2026-11-14 11:05:12.268,271,0
+"90 km SE of King Cove, Alaska",Alaska,2.7,ml,19.1,54.6,-161.163,2026-11-14 10:37:42.933,112,0
+northern Mid-Atlantic Ridge,northern Mid-Atlantic Ridge,5.5,mww,10.0,30.122,-42.6346,2026-11-14 09:26:13.073,465,0
+"63 km SE of Akutan, Alaska",Alaska,2.8,ml,31.862,53.7532,-165.0522,2026-11-14 09:12:13.222,121,0
+"29 km N of Hatillo, Puerto Rico",Puerto Rico,2.73,md,50.05,18.7483333333333,-66.7786666666667,2026-11-14 09:08:16.380,115,0
+"58 km NE of Nikolski, Alaska",Alaska,2.9,ml,101.5,53.284,-168.202,2026-11-14 08:40:57.668,129,0
+"15 km WSW of Conconully, Washington",Washington,3.42,ml,8.09,48.486,-119.922333333333,2026-11-14 08:30:07.520,212,0
+"113 km N of San Antonio, Puerto Rico",Puerto Rico,3.55,md,28.0,19.5083,-67.2648,2026-11-14 07:39:11.520,194,0
+"81 km SSE of Unalaska, Alaska",Alaska,2.6,ml,14.3,53.264,-165.864,2026-11-14 07:36:58.103,104,0
+"southeast of Shikoku, Japan",Japan,4.1,mb,506.899,30.0796,136.9461,2026-11-14 07:24:59.364,259,0
+"37 km SW of Chenega, Alaska",Alaska,2.8,ml,17.8,59.849,-148.532,2026-11-14 07:21:20.158,121,0
+"105 km N of Yakutat, Alaska",Alaska,2.7,ml,10.0,60.49,-139.8841,2026-11-14 07:19:06.094,112,0
+"102 km NNE of Hihifo, Tonga",Tonga,4.6,mb,10.0,-15.0887,-173.446,2026-11-14 07:02:22.573,326,0
+"23 km S of Denali National Park, Alaska",Alaska,2.8,ml,20.8,63.33,-151.69,2026-11-14 06:58:06.707,121,0
+"State of Yap, Federated States of Micronesia",Federated States of Micronesia,5.2,mb,10.0,9.7032,147.3631,2026-11-14 06:52:26.706,416,0
+West Chile Rise,West Chile Rise,4.8,mb,10.0,-36.4613,-97.9575,2026-11-14 06:33:19.009,354,0
+"197 km SSE of Akhiok, Alaska",Alaska,3.3,ml,10.0,55.26,-153.181,2026-11-14 06:11:35.913,168,0
+"32 km SE of Kargil, India",India,4.0,mb,10.0,34.3601,76.392,2026-11-14 04:59:27.508,246,0
+western Indian-Antarctic Ridge,western Indian-Antarctic Ridge,4.5,mb,10.0,-50.3735,139.6657,2026-11-14 04:59:00.633,312,0
+"13 km SSW of Skwentna, Alaska",Alaska,2.6,ml,85.4,61.888,-151.535,2026-11-14 04:02:43.234,104,0
+"25 km NNW of Dhūlia, India",India,4.2,mb,10.0,21.1258,74.7283,2026-11-14 03:45:27.019,272,0
+"54 km NW of San Antonio de los Cobres, Argentina",Argentina,4.7,mb,216.092,-23.9436,-66.7642,2026-11-14 03:18:26.652,340,0
+off the west coast of northern Sumatra,off the west coast of northern Sumatra,5.2,mb,10.0,3.304,92.8261,2026-11-14 02:59:29.180,416,0
+Fiji region,Fiji region,4.5,mb,587.447,-19.5803,-177.739,2026-11-14 02:21:07.393,312,0
+"17 km ENE of Tilden, Texas",Texas,2.7,ml,6.843,28.527,-98.384,2026-11-14 01:00:51.796,112,0
+"58 km S of Whites City, New Mexico",New Mexico,2.9,ml,6.0999,31.656,-104.454,2026-11-14 00:26:00.006,129,0
+"22 km NE of Kinablangan, Philippines",Philippines,4.5,mb,10.0,7.8529,126.6692,2026-11-13 23:58:23.875,312,0
+"100 km WSW of Lebu, Chile",Chile,4.6,mb,10.0,-37.922,-74.7229,2026-11-13 23:55:15.232,326,0
+"153 km NW of Kavieng, Papua New Guinea",Papua New Guinea,5.1,mb,10.0,-1.5038,149.92,2026-11-13 23:30:38.320,400,0
+"98 km ENE of Ouzinkie, Alaska",Alaska,4.1,ml,28.2,58.365,-151.055,2026-11-13 23:26:19.108,259,0
+"74 km S of Yudomari, Japan",Japan,4.6,mb,40.852,29.5604,130.4805,2026-11-13 23:22:54.402,326,0
+"108 km E of Chignik, Alaska",Alaska,2.6,ml,14.8,56.46,-156.67,2026-11-13 23:05:57.912,104,0
+south of the Kermadec Islands,south of the Kermadec Islands,4.9,mb,36.931,-32.746,-178.6351,2026-11-13 22:10:42.124,369,0
+"56 km S of Whites City, New Mexico",New Mexico,3.4,ml,6.0999,31.67,-104.436,2026-11-13 21:25:33.084,178,0
+"33 km SSW of La Libertad, El Salvador",El Salvador,4.6,mb,59.125,13.2186,-89.4564,2026-11-13 21:19:55.905,327,0
+"70 km SSW of Kaktovik, Alaska",Alaska,3.0,ml,17.2,69.512,-144.019,2026-11-13 20:06:36.688,138,0
+"14 km SW of Roncesvalles, Colombia",Colombia,4.4,mb,9.684,3.9065,-75.6814,2026-11-13 20:01:41.936,298,0
+"153 km NW of Kavieng, Papua New Guinea",Papua New Guinea,4.8,mww,10.0,-1.4671,149.9613,2026-11-13 19:49:21.768,354,0
+"9 km WSW of Chaparral, Colombia",Colombia,4.5,mb,10.0,3.6793,-75.5584,2026-11-13 19:43:17.748,312,0
+"64 km ENE of Susitna North, Alaska",Alaska,2.5,ml,19.5,62.384,-148.711,2026-11-13 19:08:39.475,96,0
+South Sandwich Islands region,South Sandwich Islands region,5.1,mb,63.81,-58.962,-25.7253,2026-11-13 19:04:07.703,400,0
+south of the Fiji Islands,south of the Fiji Islands,4.9,mb,563.277,-23.1808,178.9205,2026-11-13 18:55:40.754,369,0
+"53 km W of Nanwalek, Alaska",Alaska,3.2,ml,91.8,59.422,-152.86,2026-11-13 18:36:51.302,158,0
+"63 km ESE of Sand Point, Alaska",Alaska,3.4,ml,35.0,55.1116,-159.583,2026-11-13 16:55:30.862,178,0
+"79 km WSW of Changuillo, Peru",Peru,5.8,mww,10.0,-14.9934,-75.8807,2026-11-13 16:43:02.131,521,0
+"10 km SW of Guaymate, Dominican Republic",Dominican Republic,4.8,mb,136.742,18.5286,-69.0533,2026-11-13 16:35:58.400,363,0
+"79 km NE of Kuqa, China",China,5.2,mb,10.0,42.1734,83.6657,2026-11-13 16:17:51.680,416,0
+"22 km WNW of Preston, Nevada",Nevada,3.38,ml,5.716,38.9792,-115.3039,2026-11-13 15:34:33.470,176,0
+"16 km W of Preston, Nevada",Nevada,3.55,ml,1.0409,38.901,-115.2534,2026-11-13 15:10:28.133,194,0
+West Chile Rise,West Chile Rise,5.2,mww,10.0,-36.4434,-97.9785,2026-11-13 14:12:47.843,416,0
+"52 km NE of Santa Rosa, Peru",Peru,4.4,mb,125.786,-10.5256,-74.6131,2026-11-13 12:37:49.644,298,0
+"12 km ESE of Baculin, Philippines",Philippines,4.4,mb,79.163,7.3953,126.6864,2026-11-13 12:12:57.241,298,0
+"59 km WSW of Houma, Tonga",Tonga,4.8,mb,162.78,-21.3036,-175.8541,2026-11-13 11:18:12.734,354,0
+"131 km ESE of Chignik, Alaska",Alaska,2.6,ml,5.0,56.034,-156.334,2026-11-13 11:07:18.054,104,0
+"86 km NNE of Lagunas, Peru",Peru,4.5,mb,10.0,-4.5227,-75.3275,2026-11-13 10:55:12.777,312,0
+"51 km ESE of Tournavista, Peru",Peru,4.4,mb,131.684,-9.1322,-74.2837,2026-11-13 10:32:05.619,298,0
+"29 km WNW of Baghlān, Afghanistan",Afghanistan,4.4,mb,10.0,36.2047,68.3878,2026-11-13 10:17:19.293,298,0
+"66 km SSE of Farkhār, Afghanistan",Afghanistan,4.1,mb,10.0,36.0578,70.2408,2026-11-13 10:07:36.127,259,0
+southeast of the Loyalty Islands,southeast of the Loyalty Islands,4.9,mb,10.0,-22.3729,173.4492,2026-11-13 09:55:45.053,369,0
+"58 km S of Whites City, New Mexico",New Mexico,2.5,ml,6.0486,31.653,-104.469,2026-11-13 09:54:08.807,96,0
+"10 km ESE of Nikiski, Alaska",Alaska,3.3,ml,61.3,60.651,-151.123,2026-11-13 09:47:19.137,168,0
+"84 km E of Barcelona, Philippines",Philippines,4.6,mb,10.0,8.2136,127.2035,2026-11-13 09:40:47.087,326,0
+"18 km WNW of Río Grande, Panama",Panama,4.6,mb,10.0,7.7821,-81.4943,2026-11-13 08:01:57.936,326,0
+"143 km WSW of Fakfak, Indonesia",Indonesia,4.4,mb,10.0,-3.5977,131.19,2026-11-13 07:55:35.583,298,0
+"27 km NNE of Labuan Lombok, Indonesia",Indonesia,4.7,mb,9.626,-8.262,116.7507,2026-11-13 04:49:33.549,340,0
+"88 km SSE of King Cove, Alaska",Alaska,3.5,ml,0.0,54.394,-161.58,2026-11-13 03:27:57.345,188,0
+"95 km W of San Antonio de los Cobres, Argentina",Argentina,4.2,mb,176.658,-24.2106,-67.263,2026-11-13 03:11:15.340,271,0
+"Pagan region, Northern Mariana Islands",Northern Mariana Islands,4.9,mb,219.572,18.8925,145.6025,2026-11-13 02:55:03.370,369,0
+"278 km E of Levuka, Fiji",Fiji,4.5,mb,527.134,-17.9443,-178.0523,2026-11-13 02:26:23.505,312,0
+"8 km SE of San Pedro, CA",CA,2.53,ml,7.84,33.68083,-118.23383,2026-11-13 02:11:54.590,104,0
+"91 km W of San Antonio de los Cobres, Argentina",Argentina,4.3,mb,207.347,-24.1797,-67.2224,2026-11-13 01:44:32.807,284,0
+"98 km N of San Juan, Puerto Rico",Puerto Rico,3.36,md,29.27,19.3588333333333,-66.1013333333333,2026-11-13 01:37:07.490,174,0
+"85 km W of Mwene-Ditu, Democratic Republic of the Congo",Democratic Republic of the Congo,5.0,mb,10.0,-6.9392,22.68,2026-11-13 01:12:46.186,385,0
+"39 km S of Moíres, Greece",Greece,5.1,mb,43.358,34.6967,24.8798,2026-11-13 00:05:04.104,401,0
+off the coast of Oregon,off the coast of Oregon,3.5,ml,10.0,44.0917,-128.9794,2026-11-12 23:46:47.427,188,0
+"148 km NW of Kavieng, Papua New Guinea",Papua New Guinea,5.8,mww,10.0,-1.5882,149.8877,2026-11-12 22:04:06.729,518,0
+"117 km S of Akureyri, Iceland",Iceland,4.6,mb,10.0,64.6502,-17.6047,2026-11-12 21:53:42.535,326,0
+western Indian-Antarctic Ridge,western Indian-Antarctic Ridge,4.9,mww,10.0,-51.4999,139.7962,2026-11-12 21:15:56.584,369,0
+western Indian-Antarctic Ridge,western Indian-Antarctic Ridge,5.1,mww,10.0,-51.4273,139.5909,2026-11-12 21:09:14.685,400,0
+"41 km N of Weining, China",China,4.9,mb,10.0,27.2239,104.1911,2026-11-12 20:03:14.062,369,0
+"1 km ENE of Aromas, CA",CA,2.58,md,-0.0599999986588955,36.8901672363281,-121.635498046875,2026-11-12 19:40:57.270,102,0
+"54 km N of Kobuk, Alaska",Alaska,3.4,ml,2.2,67.394,-156.786,2026-11-12 19:18:38.831,178,0
+"3 km NNW of Little America, Wyoming",Wyoming,2.95,ml,-3.42,41.5665,-109.878333333333,2026-11-12 17:18:59.890,134,0
+"67 km E of Port Alsworth, Alaska",Alaska,2.5,ml,147.8,60.218,-153.099,2026-11-12 16:19:07.340,96,0
+"36 km SSW of Nanwalek, Alaska",Alaska,3.2,ml,54.9,59.035,-152.075,2026-11-12 15:43:54.833,158,0
+"115 km ESE of Bitung, Indonesia",Indonesia,4.5,mb,39.203,1.1216,126.1127,2026-11-12 14:58:32.284,312,0
+"Rat Islands, Aleutian Islands, Alaska",Alaska,4.4,mb,35.0,51.3114,178.7626,2026-11-12 13:39:57.544,298,0
+"Bonin Islands, Japan region",Japan region,4.3,mb,483.86,26.6767,140.4195,2026-11-12 13:37:55.661,284,0
+"3 km E of Tako, Japan",Japan,4.5,mb,73.353,35.7319,140.5102,2026-11-12 13:27:22.321,312,0
+"24 km ESE of Kasilof, Alaska",Alaska,2.5,ml,67.5,60.246,-150.88,2026-11-12 13:10:38.733,96,0
+"37 km SE of Naalehu, Hawaii",Hawaii,2.63,ml,28.03,18.8376666666667,-155.315333333333,2026-11-12 12:50:07.350,106,0
+"83 km NE of Ruteng, Indonesia",Indonesia,4.7,mb,10.0,-8.0655,120.9934,2026-11-12 11:16:29.434,340,0
+"119 km ESE of Cordova, Alaska",Alaska,2.7,ml,5.0,60.328,-143.639,2026-11-12 10:17:31.050,112,0
+"15 km E of Pearsall, Texas",Texas,3.1,ml,7.4904,28.874,-98.941,2026-11-12 09:20:18.804,148,0
+"219 km WSW of Port McNeill, Canada",Canada,4.1,mb,10.0,50.1892,-130.1063,2026-11-12 08:26:40.018,259,0
+off the coast of Oregon,off the coast of Oregon,4.5,mb,10.0,44.448,-129.63,2026-11-12 08:17:28.248,312,0
+"60 km NW of Ninilchik, Alaska",Alaska,2.5,ml,103.4,60.404,-152.493,2026-11-12 06:14:36.292,96,0
+"21 km NNE of Sterling, Alaska",Alaska,2.5,ml,0.2,60.714,-150.599,2026-11-12 06:11:35.248,96,0
+"95 km SSW of Kaktovik, Alaska",Alaska,2.8,ml,7.5,69.363,-144.736,2026-11-12 06:04:56.755,121,0
+"104 km SSW of Kaktovik, Alaska",Alaska,3.7,ml,4.4,69.334,-145.021,2026-11-12 05:48:28.757,211,0
+"121 km SE of Adak, Alaska",Alaska,4.0,mb,18.742,51.0953,-175.4137,2026-11-12 05:38:46.602,246,0
+"275 km E of Levuka, Fiji",Fiji,4.3,mb,612.36,-17.9916,-178.0792,2026-11-12 05:06:35.034,284,0
+"51 km W of Akhiok, Alaska",Alaska,2.5,ml,5.0,56.952,-155.024,2026-11-12 04:08:47.361,96,0
+"155 km E of Noda, Japan",Japan,4.8,mb,33.039,40.3593,143.6115,2026-11-12 04:07:32.379,354,0
+South Sandwich Islands region,South Sandwich Islands region,5.4,mb,121.557,-59.0326,-26.0288,2026-11-12 03:45:56.644,449,0
+"11 km SSE of Kasilof, Alaska",Alaska,3.1,ml,61.2,60.246,-151.171,2026-11-12 03:43:51.447,148,0
+"43 km SE of Severo-Kuril’sk, Russia",Russia,4.8,mb,74.47,50.4399,156.6137,2026-11-12 01:18:44.576,354,0
+"84 km SE of Akutan, Alaska",Alaska,4.4,mb,37.007,53.637,-164.8071,2026-11-12 00:00:46.340,298,0
+"95 km SE of Akutan, Alaska",Alaska,3.9,mb,36.874,53.5338,-164.7435,2026-11-11 23:59:40.557,234,0
+"23 km S of Westbrook, Texas",Texas,2.5,ml,9.4482,32.147,-101.06,2026-11-11 23:05:49.392,96,0
+"73 km NNW of Gyalshing, India",India,4.6,mb,10.0,27.8692,87.8857,2026-11-11 23:00:22.433,328,0
+"112 km N of Yakutat, Alaska",Alaska,2.6,ml,10.0,60.5416,-140.1042,2026-11-11 22:44:18.380,104,0
+"97 km E of Georgetown, Saint Helena",Saint Helena,4.9,mb,10.0,-8.0337,-13.5344,2026-11-11 22:03:41.753,369,0
+"22 km SE of Emajagua, Puerto Rico",Puerto Rico,2.93,md,8.12,17.8535,-65.7301666666667,2026-11-11 21:20:18.460,132,0
+"99 km SW of Brisas Barra de Suchiate, Mexico",Mexico,4.4,mb,10.0,13.8629,-92.8416,2026-11-11 21:15:22.202,298,0
+"41 km SSE of Camiña, Chile",Chile,4.5,mb,112.957,-19.6783,-69.3312,2026-11-11 20:45:04.390,312,0
+"274 km W of Houma, Tonga",Tonga,4.4,mb,392.607,-21.3542,-177.9398,2026-11-11 20:38:22.718,298,0
+"131 km SSE of Old Harbor, Alaska",Alaska,3.3,ml,5.8,56.125,-152.443,2026-11-11 20:24:46.192,168,0
+south of the Fiji Islands,south of the Fiji Islands,4.5,mb,527.582,-23.5023,-179.8474,2026-11-11 19:50:21.669,312,0
+"48 km NW of Ancud, Chile",Chile,4.9,mww,18.804,-41.5454,-74.2133,2026-11-11 19:21:15.400,371,0
+"128 km SSE of Old Harbor, Alaska",Alaska,3.1,ml,20.1,56.136,-152.489,2026-11-11 19:08:19.738,148,0
+"34 km ESE of Vallenar, Chile",Chile,3.9,mb,113.235,-28.6411,-70.4194,2026-11-11 18:41:56.682,234,0
+"81 km W of Panguna, Papua New Guinea",Papua New Guinea,5.1,mww,74.384,-6.3292,154.7513,2026-11-11 17:38:24.225,400,0
+"27 km S of Pedasí, Panama",Panama,4.4,mb,10.0,7.2776,-80.0408,2026-11-11 17:36:39.888,298,0
+"15 km E of Pearsall, Texas",Texas,2.6,ml,8.4451,28.87,-98.943,2026-11-11 16:44:33.750,104,0
+"28 km SSE of Denali National Park, Alaska",Alaska,2.5,ml,17.3,63.297,-151.547,2026-11-11 16:27:06.604,96,0
+South Sandwich Islands region,South Sandwich Islands region,5.1,mb,104.66,-56.0247,-27.7366,2026-11-11 15:39:25.949,400,0
+"56 km S of Whites City, New Mexico",New Mexico,2.5,ml,6.6125,31.671,-104.333,2026-11-11 14:53:45.518,96,0

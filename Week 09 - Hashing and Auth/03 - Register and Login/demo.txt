@@ -1,0 +1,4 @@
+alice,$2b$12$pMDEhXY/JaHZu8NE4u56dOZ.TBV9GhzX8JZC/B/kYJQ.dXfaUAydu
+ben,$2b$12$6CKjxlvcBTaoHYCa13a3h.EdPdbWoUCnw.ofIX6f7EYQ4GzcE5z6.
+beth,$2b$12$gxY0ZloHD3552wA4tRdez.9lneQayof6MRno31QhPWtMscDiJf2AG
+carol,$2b$12$8IjIhs3ichwgZrVauxa8A.hH/spFeYmucjruEUj3VelRkDYNLOFqi

@@ -2,3 +2,5 @@ alice,$2b$12$pMDEhXY/JaHZu8NE4u56dOZ.TBV9GhzX8JZC/B/kYJQ.dXfaUAydu
 ben,$2b$12$6CKjxlvcBTaoHYCa13a3h.EdPdbWoUCnw.ofIX6f7EYQ4GzcE5z6.
 beth,$2b$12$gxY0ZloHD3552wA4tRdez.9lneQayof6MRno31QhPWtMscDiJf2AG
 carol,$2b$12$8IjIhs3ichwgZrVauxa8A.hH/spFeYmucjruEUj3VelRkDYNLOFqi
+alice,$2b$12$.f6mezqPmeWmmHg1riGKu.NsCP0G7SPCtSnDgGwLM6HTELxaj1Yeq
+azra,$2b$12$1i8dovjivkZSmMLl2MduuOdMos5FJH.Fj8nHpS22J5aHHuoxx6.7e
